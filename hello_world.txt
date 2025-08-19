@@ -1,0 +1,4 @@
+I now understand how to stage and commit git files to the repository!
+yeehaw brother.
+Can use git add . to add all files in the current directory 
+to the staging area.
